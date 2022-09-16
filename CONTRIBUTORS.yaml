@@ -1,3 +1,4 @@
+contributors:
 - {comments: null, mail: jmcanterafonseca4github@gmail.com, name: Jose M., organization: CanteraFonseca.EU,
   project: null, surname: Cantera, year: 2022}
 - {comments: null, mail: mail@demin.co, name: Dmitrii, organization: null, project: null,
@@ -25,3 +26,5 @@
     Antwerpen, project: null, surname: Van de Wouwer, year: 2022}
 - {comments: null, mail: shyam28598@gmail.com, name: Srikrishnan, organization: IUDX,
   project: null, surname: null, year: 2022}
+description: This is a compilation list of all CONTRIBUTORS across different objects
+  (data models) alphabetically ordered. All fields are non mandatory
